@@ -6,6 +6,8 @@ For this assignment I changed:
 
 * I also added alt attributes to the images to make them descriptive on screen readers
 
+* added comments to html and css file
+
 
 ## Screenshot
 

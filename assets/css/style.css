@@ -1,14 +1,18 @@
+
 * {
+ /* universal selector all boxes will have these elements */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
 body {
+/* the background colour of body will be this white*/
     background-color: #d9dcd6;
 }
 
 .header {
+/* the header will have this padding, font family, background color and font colour */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -16,6 +20,7 @@ body {
 }
 
 .header h1 {
+/* The h1 header will display inline at font size 48px*/
     display: inline-block;
     font-size: 48px;
 }
