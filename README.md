@@ -9,7 +9,11 @@ For this assignment I changed:
 * added comments to html and css file
 
 
-## Screenshot
+## Screenshots
+![screenshot1](./assets/images/Screenshot-1.png)
+![screenshot2](./assets/images/Screenshot-2.png)
+![screenshot3](./assets/images/Screenshot-3.png)
+
 
 ## link to deployed application
 https://nabsie.github.io/homework_1/
