@@ -105,6 +105,18 @@ body {
   font-size: 36px;
 }
 
+.float-left {
+  /* image is moved left of the container */
+  float: left;
+  margin-right: 25px;
+}
+
+.float-right {
+  /* image is moved right of the container */
+  float: right;
+  margin-left: 25px;
+}
+
 .benefits {
   /* styling for section benefits */
   margin-right: 20px;
@@ -140,18 +152,6 @@ body {
   display: block;
   margin: 10px auto;
   max-width: 150px;
-}
-
-.float-left {
-  /* image is moved left of the container */
-  float: left;
-  margin-right: 25px;
-}
-
-.float-right {
-  /* image is moved right of the container */
-  float: right;
-  margin-left: 25px;
 }
 
 .footer {
