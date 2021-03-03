@@ -137,7 +137,7 @@ p {
 }
 
 
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+.search-engine-optimization h2, .online-reputation-management h3, .social-media-marketing h4 {
 /* styling for header 2 of section */
     margin-bottom: 20px;
     font-size: 36px;
