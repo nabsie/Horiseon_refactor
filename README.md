@@ -1,12 +1,14 @@
-## Title
-
-Homework 1 Readme file
+# Homework 1 Horiseon refactor
 
 ## Description
 
-Problems with the page: the 'search engine optimisation' link didn't work - needed an id attribute
-CSS was ordered badly - reordered to match html file
-html header tags were not ordered correctly - went from h1 to h5
+### What we did
+
+Problems with the page:
+
+- the 'search engine optimisation' link didn't work - needed an id attribute
+- CSS was ordered badly - reordered to match html file
+- html header tags were not ordered correctly - went from h1 to h5
 
 For this assignment I changed:
 
@@ -27,5 +29,10 @@ For future reference I would make the links head to an external page where more 
 ![screenshot3](./assets/images/Screenshot-3.png)
 
 ## link to deployed application
+
+```
+git clone git@github.com:nabsie/homework_1.git
+code .
+```
 
 https://nabsie.github.io/homework_1/
