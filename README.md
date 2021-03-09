@@ -37,4 +37,4 @@ git clone git@github.com:nabsie/homework_1.git
 code .
 ```
 
-https://nabsie.github.io/homework_1/
+https://nabsie.github.io/Horiseon_refactor/
